@@ -1,7 +1,6 @@
 # THREE-BODY GAMBIT: CHAOS THROUGH TIME
 
 > **YPAE SIMATHON 02 Competition Project**  
-> *A Scientifically Rigorous Newtonian Three-Body Dynamics & Simulation Layer Suite*
 
 ---
 
